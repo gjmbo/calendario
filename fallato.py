@@ -7,3 +7,4 @@ def cancella_file(nome_file):
 # Esempio di uso
 nome = input("Inserisci il nome del file da cancellare: ")
 cancella_file(nome)
+
