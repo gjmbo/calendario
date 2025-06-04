@@ -14,5 +14,5 @@ def login(username, password):
     else:
         print("Accesso negato.")
 
-# Esempio di input malevolo
+# Esempio di input malevolo--
 login("admin", "' OR '1'='1")
